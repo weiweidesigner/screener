@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stock Screener"
+  short_description: "Screen A-share, Hong Kong and US stocks with flexible filters"
+  default_prompt: "Use $screener to find stocks using criteria appropriate to my question."
